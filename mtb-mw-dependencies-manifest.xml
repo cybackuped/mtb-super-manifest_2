@@ -126,4 +126,22 @@
       </version>
     </versions>
   </depender>
+  <depender>
+    <id>freertos</id>
+    <versions>
+      <version>
+        <commit>release-v10.3.1</commit>
+        <dependees>
+          <dependee>
+            <id>abstraction-rtos</id>
+            <commit>latest-v1.X</commit>
+          </dependee>
+          <dependee>
+            <id>clib-support</id>
+            <commit>latest-v1.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
 </dependencies>
