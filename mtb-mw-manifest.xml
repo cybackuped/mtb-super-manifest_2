@@ -2,7 +2,7 @@
   <middleware>
     <name>psoc6pdl</name>
     <id>psoc6pdl</id>
-    <uri>https://github.com/cyorig/psoc6pdl</uri>
+    <uri>https://github.com/cymodif/psoc6pdl</uri>
     <desc>The PSoC 6 Peripheral Driver Library (PDL) integrates device header files, startup code, and low-level peripheral drivers into a single package.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -62,7 +62,7 @@
   <middleware>
     <name>psoc6cm0p</name>
     <id>psoc6cm0p</id>
-    <uri>https://github.com/cyorig/psoc6cm0p</uri>
+    <uri>https://github.com/cymodif/psoc6cm0p</uri>
     <desc>PSoC 6 Cortex M0+ prebuilt images enabling flash write services and BLE event handling.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -127,7 +127,7 @@
   <middleware>
     <name>psoc6hal</name>
     <id>psoc6hal</id>
-    <uri>https://github.com/cyorig/psoc6hal</uri>
+    <uri>https://github.com/cymodif/psoc6hal</uri>
     <desc>PSoC 6 Hardware Abstraction Layer package, provides a set of APIs to initialize, configure, and use the PSoC 6 MCU resources using the Cypress defined Hardware Abstraction Layer.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -177,7 +177,7 @@
   <middleware>
     <name>psoc6make</name>
     <id>psoc6make</id>
-    <uri>https://github.com/cyorig/psoc6make</uri>
+    <uri>https://github.com/cymodif/psoc6make</uri>
     <desc>PSoC 6 Base Build Library.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -252,7 +252,7 @@
   <middleware>
     <name>core-lib</name>
     <id>core-lib</id>
-    <uri>https://github.com/cyorig/core-lib</uri>
+    <uri>https://github.com/cymodif/core-lib</uri>
     <desc>The Core Library provides device agnostic utilities that all middleware can rely on. This includes a generic result type and some common utility functions.</desc>
     <category>Base Libraries</category>
     <req_capabilities>mcu_gp</req_capabilities>
@@ -302,7 +302,7 @@
   <middleware>
     <name>retarget-io</name>
     <id>retarget-io</id>
-    <uri>https://github.com/cyorig/retarget-io</uri>
+    <uri>https://github.com/cymodif/retarget-io</uri>
     <desc>The Retarget IO library provides APIs for transmitting messages to or from the board via standard printf/scanf functions using a UART connection which is generally connected to a host machine.</desc>
     <category>Board Utils</category>
     <req_capabilities>mcu_gp</req_capabilities>
@@ -332,7 +332,7 @@
   <middleware>
     <name>rgb-led</name>
     <id>rbg-led</id>
-    <uri>https://github.com/cyorig/rgb-led</uri>
+    <uri>https://github.com/cymodif/rgb-led</uri>
     <desc>The RGB LED library provides APIs for controlling the color and intensity the RGB LED on the Cypress kits.</desc>
     <category>Board Utils</category>
     <req_capabilities>mcu_gp</req_capabilities>
@@ -362,7 +362,7 @@
   <middleware>
     <name>udb-sdio-whd</name>
     <id>udb-sdio-whd</id>
-    <uri>https://github.com/cyorig/udb-sdio-whd</uri>
+    <uri>https://github.com/cymodif/udb-sdio-whd</uri>
     <desc>The UDB SDIO for WHD library provides a UDB based SDIO interface that allows for communicating between a PSoC 6 and a Cypress wireless device such as the CYW4343W, CYW43438, or CYW43012.</desc>
     <category>Board Utils</category>
     <req_capabilities>psoc6 cyw43xxx udb</req_capabilities>
@@ -397,7 +397,7 @@
   <middleware>
     <name>capsense</name>
     <id>capsense</id>
-    <uri>https://github.com/cyorig/capsense</uri>
+    <uri>https://github.com/cymodif/capsense</uri>
     <desc>Capacitive sensing solution (CapSense) enabling a variety of applications such as touch, gesture and proximity detection.</desc>
     <category>MCU Middleware</category>
     <req_capabilities>capsense</req_capabilities>

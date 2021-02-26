@@ -2,7 +2,7 @@
   <middleware>
     <name>core-make</name>
     <id>core-make</id>
-    <uri>https://github.com/cyorig/core-make</uri>
+    <uri>https://github.com/cymodif/core-make</uri>
     <desc>Core Make build system provides generic build files and scripts for building and programming ModusToolbox applications.</desc>
     <category>Base Libraries</category>
     <req_capabilities></req_capabilities>
@@ -27,7 +27,7 @@
   <middleware>
     <name>mtb-pdl-cat1</name>
     <id>mtb-pdl-cat1</id>
-    <uri>https://github.com/cyorig/mtb-pdl-cat1</uri>
+    <uri>https://github.com/cymodif/mtb-pdl-cat1</uri>
     <desc>The Peripheral Driver Library (PDL) integrates device header files, startup code, and low-level peripheral drivers into a single package.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -52,7 +52,7 @@
   <middleware>
     <name>mtb-hal-cat1</name>
     <id>mtb-hal-cat1</id>
-    <uri>https://github.com/cyorig/mtb-hal-cat1</uri>
+    <uri>https://github.com/cymodif/mtb-hal-cat1</uri>
     <desc>PSoC 6 Hardware Abstraction Layer package, provides a set of APIs to initialize, configure, and use the PSoC 6 MCU resources using the Cypress defined Hardware Abstraction Layer.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>
@@ -72,7 +72,7 @@
   <middleware>
     <name>recipe-make-cat1a</name>
     <id>recipe-make-cat1a</id>
-    <uri>https://github.com/cyorig/recipe-make-cat1a</uri>
+    <uri>https://github.com/cymodif/recipe-make-cat1a</uri>
     <desc>PSoC 6 Make build recipe provides the make files and scripts for building and programming PSoC 6 applications.</desc>
     <category>PSoC 6 Base Libraries</category>
     <req_capabilities>psoc6</req_capabilities>

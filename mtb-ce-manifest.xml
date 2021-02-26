@@ -2,9 +2,9 @@
   <app>
     <name>Empty PSoC6 App</name>
     <id>mtb-example-psoc6-empty-app</id>
-    <uri>https://github.com/cyorig/mtb-example-psoc6-empty-app</uri>
+    <uri>https://github.com/cymodif/mtb-example-psoc6-empty-app</uri>
     <description><![CDATA[This empty application provides a template for creating applications using PSoC 6 devices.
-    <br><br>For more details, see the <a href="https://github.com/cyorig/mtb-example-psoc6-empty-app/blob/master/README.md">README on GitHub</a>.]]></description>
+    <br><br>For more details, see the <a href="https://github.com/cymodif/mtb-example-psoc6-empty-app/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version req_capabilities_per_version="bsp_gen1">
@@ -24,9 +24,9 @@
   <app>
     <name>Hello World</name>
     <id>mtb-example-psoc6-hello-world</id>
-    <uri>https://github.com/cyorig/mtb-example-psoc6-hello-world</uri>
+    <uri>https://github.com/cymodif/mtb-example-psoc6-hello-world</uri>
     <description><![CDATA[This code example demonstrates simple UART communication by printing a "Hello World" message on a terminal and blinks an LED using a Timer resource using PSoC 6 MCU.
-    <br><br>For more details, see the <a href="https://github.com/cyorig/mtb-example-psoc6-hello-world/blob/master/README.md">README on GitHub</a>.]]></description>
+    <br><br>For more details, see the <a href="https://github.com/cymodif/mtb-example-psoc6-hello-world/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6 led</req_capabilities>
     <versions>
       <version req_capabilities_per_version="bsp_gen1">
@@ -46,9 +46,9 @@
   <app>
     <name>CapSense Buttons and Slider</name>
     <id>mtb-example-psoc6-capsense-buttons-slider</id>
-    <uri>https://github.com/cyorig/mtb-example-psoc6-capsense-buttons-slider</uri>
+    <uri>https://github.com/cymodif/mtb-example-psoc6-capsense-buttons-slider</uri>
     <description><![CDATA[This code example features a 5-segment CapSense slider and two CapSense buttons. Button 0 turns the LED on, Button 1 turns the LED off and the slider controls the brightness of the LED. The code example also demonstrates interfacing with Tuner GUI using I2C interface.
-    <br><br>For more details, see the <a href="https://github.com/cyorig/mtb-example-psoc6-capsense-buttons-slider/blob/master/README.md">README on GitHub</a>.]]></description>
+    <br><br>For more details, see the <a href="https://github.com/cymodif/mtb-example-psoc6-capsense-buttons-slider/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>psoc6 led capsense_button capsense_linear_slider</req_capabilities>
     <versions>
       <version req_capabilities_per_version="bsp_gen1">

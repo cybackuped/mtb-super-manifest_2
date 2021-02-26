@@ -2,7 +2,7 @@
   <board>
     <id>CY8CKIT-062S2-43012</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cyorig/TARGET_CY8CKIT-062S2-43012</board_uri>
+    <board_uri>https://github.com/cymodif/TARGET_CY8CKIT-062S2-43012</board_uri>
     <chips>
       <mcu>CY8C624ABZI-S2D44</mcu>
       <radio>CYW43012C0WKWBG</radio>
@@ -43,7 +43,7 @@
   <board>
     <id>CY8CKIT-062-WIFI-BT</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cyorig/TARGET_CY8CKIT-062-WIFI-BT</board_uri>
+    <board_uri>https://github.com/cymodif/TARGET_CY8CKIT-062-WIFI-BT</board_uri>
     <chips>
       <mcu>CY8C6247BZI-D54</mcu>
       <radio>CYW4343WKUBG</radio>
@@ -82,7 +82,7 @@
   <board>
     <id>CY8CPROTO-062-4343W</id>
     <category>PSoC 6 BSPs</category>
-    <board_uri>https://github.com/cyorig/TARGET_CY8CPROTO-062-4343W</board_uri>
+    <board_uri>https://github.com/cymodif/TARGET_CY8CPROTO-062-4343W</board_uri>
     <chips>
       <mcu>CY8C624ABZI-S2D44</mcu>
       <radio>CYW4343WKUBG</radio>
