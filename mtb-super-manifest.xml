@@ -14,7 +14,7 @@
       <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-mw-manifest.xml</uri>
     </middleware-manifest>
     <middleware-manifest>
-      <uri>https://github.com/cymodif/mtb-wifi-mw-manifest/raw/master/mtb-wifi-mw-manifest.xml</uri>
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-wifi-mw-manifest.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
