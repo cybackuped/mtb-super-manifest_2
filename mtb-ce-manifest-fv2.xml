@@ -57,4 +57,22 @@
       </version>
     </versions>
   </app>
+  <app keywords="psoc6,mtb-flow,ble,bluetooth,anycloud,onboarding,4343w,43012">
+    <name>AnyCloud Wi-Fi Onboarding Using BLE</name>
+    <id>mtb-example-anycloud-ble-wifi-onboarding</id>
+    <uri>https://github.com/cymodif/mtb-example-anycloud-ble-wifi-onboarding</uri>
+    <description><![CDATA[This code example demonstrates WiFi Onboarding using BLE.
+    <br><br>For more details, see the <a href="https://github.com/cymodif/mtb-example-anycloud-ble-wifi-onboarding/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc6 wifi bt anycloud</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="2.2.0" req_capabilities_per_version="bsp_gen2">
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
