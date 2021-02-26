@@ -1,26 +1,26 @@
 <super-manifest>
   <board-manifest-list>
     <board-manifest>
-      <uri>mtb-bsp-manifest.xml</uri>
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-bsp-manifest.xml</uri>
     </board-manifest>
-    <board-manifest dependency-url="mtb-bsp-dependencies-manifest.xml">
-      <uri>mtb-bsp-manifest-fv2.xml</uri>
+    <board-manifest dependency-url="https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-bsp-dependencies-manifest.xml">
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-bsp-manifest-fv2.xml</uri>
     </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
-      <uri>mtb-ce-manifest.xml</uri>
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-ce-manifest.xml</uri>
     </app-manifest>
     <app-manifest>
-      <uri>mtb-ce-manifest-fv2.xml</uri>
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-ce-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
   <middleware-manifest-list>
     <middleware-manifest>
-      <uri>mtb-mw-manifest.xml</uri>
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-mw-manifest.xml</uri>
     </middleware-manifest>
-    <middleware-manifest dependency-url="mtb-mw-dependencies-manifest.xml">
-      <uri>mtb-mw-manifest-fv2.xml</uri>
+    <middleware-manifest dependency-url="https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-mw-dependencies-manifest.xml">
+      <uri>https://github.com/cymodif/mtb-super-manifest/raw/master/mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
